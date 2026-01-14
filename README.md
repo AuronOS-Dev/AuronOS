@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-* [Overview](#auronos)
-* [Features](#-features)
+> [Overview](#auronos)
+> [Features](#features)
+> [Shell] (#shell)
 
 
 
@@ -18,6 +19,9 @@
 * 🧠 Written in **C#** using the **Cosmos** OS framework
 * ⌨️ Shell with a custom command structure
 
+## Shell
+*N/A*
 
+---
 
 **AuronOS** — an operating system built from C#
